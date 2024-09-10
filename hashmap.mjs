@@ -5,8 +5,6 @@
 //     this.node_count = 0; // Initialize node count
 //   }
 
-
-
 //   add(data) {
 //     const newNode = { data, next: null };
 
@@ -100,4 +98,5 @@
 //   }
 // }
 
+// 
 
